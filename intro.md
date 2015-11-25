@@ -6,6 +6,28 @@ Freelance Front-end Developer
 
 ---
 
+##Atom plugins
+* open Atom
+* go to Preferences (Atom > Preferences), this will launch a Settings tab.
+* select Install from the Settings left-hand nav
+* search for 'atom-beautify' and install this
+* do the same for 'open-in-browser',  'white-cursor' and 'highlight-line'
+* restart Atom
+
+---
+
+##Sublime package control
+
+<https://packagecontrol.io/installation>
+
+---
+
+##Working files for this week
+
+<http://bit.ly/1lJc7AM>
+
+---
+
 ##Agenda
 
 *	Summary from last week
@@ -26,23 +48,3 @@ Freelance Front-end Developer
 - Install `http-server` module globally
 - Create simple webpage with CSS styling and some JavaScript functionality (<http://codepen.io/cbas/pen/QjRWZm>)
 - Run the `http-server` command to serve the current working directory's files and sub-folders to the browser.
-
----
-
-##Atom plugins
-* open Atom
-* go to Preferences (Atom > Preferences), this will launch a Settings tab.
-* select Install from the Settings left-hand nav
-* search for 'atom-beautify' and install this
-* do the same for 'open-in-browser',  'white-cursor' and 'highlight-line'
-* restart Atom
-
----
-
-##Sublime package control
-
-<https://packagecontrol.io/installation>
-
----
-
-##Working files for this week
