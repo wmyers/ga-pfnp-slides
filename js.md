@@ -115,6 +115,9 @@ When you click on an `<a>` that links to another part of your page, the page sho
 
 `cd` to the 'hello-express-programmers' folder in your Terminal. We now need to install dependencies via the command line
 ```
+npm i express --save
+```
+```
 npm install
 ```
 

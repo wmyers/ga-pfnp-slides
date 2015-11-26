@@ -1,8 +1,16 @@
-#PFPN - Session 2: The Front End
+##PFNP - Session 2: The Front End
 
 ###Will Myers
 
 Freelance Front-end Developer
+
+###Working files for this week
+
+<http://bit.ly/1lJc7AM>
+
+###Slides
+
+<http://www.slideshare.net/wilkom/pfnp-slides>
 
 ---
 
@@ -19,12 +27,6 @@ Freelance Front-end Developer
 ##Sublime package control
 
 <https://packagecontrol.io/installation>
-
----
-
-##Working files for this week
-
-<http://bit.ly/1lJc7AM>
 
 ---
 
